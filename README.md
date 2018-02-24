@@ -8,6 +8,8 @@ After you run the script above, Xcode can now create python file with your confi
 # Template System Macro
 >`___` is three underline `_`
 
+> reference from [https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev7fe737ce0](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev7fe737ce0)
+
 |macro|Explanation|
 |:-:|:-:|
 |`___DATE___`        |The current date|
@@ -21,6 +23,9 @@ After you run the script above, Xcode can now create python file with your confi
 |`___PROJECTNAME___` |The name of the current project|
 |`___COPYRIGHT___`   |The copyright infomation|
 
+# Custom python screenshots
+![screen1](https://github.com/zzyhappyzzy/xcode_templates/blob/master/images/screen1.png)
+![screen2](https://github.com/zzyhappyzzy/xcode_templates/blob/master/images/screen2.png)
+
 # Note
-* Xcode create new python file with custom templates
-* other language can refer the python and system default config in `File Templates` directory
+* for other languages, you can refer to the above python config files and system default config files in `File Templates` directory
